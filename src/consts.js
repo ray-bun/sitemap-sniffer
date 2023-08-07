@@ -9,6 +9,7 @@ const possibleXmlUrls = [
     '/media/sitemap/sitemap.xml',
     '/media/sitemap/index.xml',
     '/sitemap',
+    '/xmlsitemap.php',
     '/category-sitemap',
     '/sitemap.html',
     '/sitemap_index',
